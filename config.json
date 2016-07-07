@@ -1,7 +1,7 @@
 {
   "pingFrequency" : 900000,
   "urlsToPing" : [
-  	"http://dkiller2.herokuapp.com/"
+  	"http://google.com/"
   ],
   "pingServerUrl" : "http://dkiller2.herokuapp.com"
 }
